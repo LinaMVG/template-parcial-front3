@@ -22,7 +22,7 @@ function App() {
 
   return (
   <div className="app-container">
-    <h1>Selecciona un color</h1>
+    <h1>:: Tema General :: Selecciona un color</h1>
     <form onSubmit={handleSubmit} className="form-container">
       <div className="form-group">
 
